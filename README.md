@@ -18,7 +18,7 @@ Before running this project locally, ensure you have the following installed:
 
 If using Git:
 ```bash
-git clone <repository-url>
+git clone https://github.com/AroRubenyan31/todo_app.git
 cd todo-app
 ```
 
